@@ -11,10 +11,10 @@ examples
 use browser to **fork** it to your reposity in github
 
 - step2:
-git clone https://github.com/user/your reposity
+git clone https://github.com/user/yourrepository
 
 - step3:
-finish task in your local reposity(in pc)
+finish task in your local repository(in pc)
 task including three things(picture,README.md and clean code)
 
 - step4:
@@ -27,7 +27,7 @@ git commit -m "xxx task"
 git push origin master
 
 - step7:
-use browser to **pull request** in https://github.com/user/your reposity
+use browser to **pull request** in https://github.com/user/yourrepository
 
 more detail:
 ----
