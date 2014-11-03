@@ -8,7 +8,7 @@ task1
 ===
 ---
 
-examples
+task help
 ------
 
 - step1:
