@@ -34,6 +34,13 @@ more detail:
 see in http://bailong139.blog.163.com/blog/static/207238100201422412659845/
 
 
-
+some inportant things
+----
+- git add
+- git commit -m ""
+- git branch
+- git checkout
+- git remote
+- git push
 
 
