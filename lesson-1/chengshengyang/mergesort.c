@@ -12,8 +12,6 @@ int * dataArray;
 
 int main(void)
 {
-    int i;
-
     inputData();
     mergeSort(0, size - 1);
     outputData();
