@@ -11,7 +11,7 @@ void main()
 
 	int year,month;
 	
-	printf("please input year and month£º");
+	printf("please input year and month ");
 	scanf("y=%d m=%d",&year,&month);
 	showCalendar(year,month);
 }
@@ -19,7 +19,7 @@ void main()
 
 void showCalendar(int year,int month)
 {
-	printf("    %d / %dÔÂ\n",year,month);
+	printf("    %d / %d \n",year,month);
 	printf("==============================\n");
 	printf(" Sun Mon Tue Wed Thu Fri Sat\n");
 	printf("==============================\n");
