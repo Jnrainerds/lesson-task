@@ -6,11 +6,11 @@ class eatNuts:
     if you didn't choose the right nuts.
     """
 
-    def __init__(self, items={}):
+    def __init__(self, items{}):
         """
         through the initial dictionary of items
         """
-        if type(items) != type({}):
+        if type(items) != dict:
                 raise TypeError("Nuts requires a dictionary but was given %s" %(type(items)))
         self.items = items
         return
