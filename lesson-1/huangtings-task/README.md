@@ -1,5 +1,5 @@
 #lesson task
 - GoogleSearch
 
-- lesson-task.py：\n
+- lesson-task.py:
 my first code of class
